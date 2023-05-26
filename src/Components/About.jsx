@@ -11,8 +11,8 @@ const About = () => {
                 </p>
 
                 <br />
-                <p className="text-xl">As a computer science student, I am continually exploring new technologies and frameworks to stay up to date with the latest trends in the industry. I thrive on challenges and enjoy pushing the boundaries of what is possible in web development. I believe in continuous learning and strive to improve my skills through personal projects and collaborations with other developers.
-                Thank you for visiting my portfolio. I am excited to showcase my projects and share my passion for frontend web development. If you have any inquiries or would like to discuss potential collaborations, please feel free to reach out. Let's work together to create outstanding web experiences!
+                <p className="text-xl">As a computer science student, I am continually exploring new technologies and frameworks to stay up to date with the latest trends in the industry.I believe in continuous learning and strive to improve my skills through personal projects and collaborations with other developers.
+                Thank you for visiting my portfolio.If you have any inquiries or would like to discuss potential collaborations, please feel free to reach out. Let's work together to create outstanding web experiences!
                 </p>
             </div>
         </div>
